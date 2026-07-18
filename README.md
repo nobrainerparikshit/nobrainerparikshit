@@ -53,23 +53,23 @@ Building intelligent systems that solve real-world problems through Artificial I
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOURUSERNAME">
+<a href="https://linkedin.com/in/parikshitsinh">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/nobrainerparikshit">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOURUSERNAME">
+<a href="https://instagram.com/nobra1nerpar1ksh1t">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://youtube.com/@YOURCHANNEL">
+<a href="https://youtube.com/@nobrainerparikshit">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://YOURPORTFOLIO.COM">
+<a href="https://pariksh1t.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
