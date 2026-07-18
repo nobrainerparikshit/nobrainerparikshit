@@ -1,53 +1,132 @@
-### Header Image  
-<img src="https://github.com/nobrainerparikshit/nobrainerparikshit/blob/main/header.png" align="left" height="300" width="1000" />  
-<img src="https://github-readme-stats.vercel.app/api?username=nobrainerparikshit&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<br/>  
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-</div>
-</td><td valign="top" width="33%">
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-</div>
-</td><td valign="top" width="33%">
-</table> 
-<br/>  
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/parikshitsinh" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<!-- Banner -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Parikshit</h1>
+
+<h3 align="center">
+AI • Robotics • Research • Healthcare Innovation
+</h3>
+
+<p align="center">
+Building intelligent systems that solve real-world problems through Artificial Intelligence, Robotics, and Biomedical Engineering.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🤖 AI & Robotics Developer
+- 🧠 Researching AI for Healthcare
+- 🌍 Founder of **Operation Jal Rakshak**
+- 🔬 Building projects in Machine Learning, Computer Vision & Edge AI
+- 💻 Passionate about Python, ROS, Embedded Systems & Biomedical AI
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,nodejs,vite&perline=8"/>
+</p>
+
+### AI • Backend • Robotics
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,linux,git,raspberrypi,arduino,ros,vscode&perline=6"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧠 **VAANI 2.0** | AI-powered vocal biomarker screening for early Parkinson's disease detection |
+| 🌿 **Eutrobot** | Autonomous phytoremediation robot for cleaning eutrophicated water bodies |
+| ☢️ **ThermoBot** | AI-driven remediation system for thermal & radioactive water pollution |
+| 🐾 **Krishna AI** | Intelligent monitoring system for animal healthcare |
+| ♻️ **EcoCredit** | Smart IoT-based waste management and reward platform |
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOURUSERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/nobrainerparikshit" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="https://github.com/YOURUSERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://instagram.com/nobra1nerpar1ksh1t" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+
+<a href="https://instagram.com/YOURUSERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/@nobrainerparikshit" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<br/>  
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nobrainerparikshit&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
-<br/>  
-<br/>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nobrainerparikshit&&style=flat-square" align="center" />
-</div>  
-<br/>
-<br />
+
+<a href="https://youtube.com/@YOURCHANNEL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://YOURPORTFOLIO.COM">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge)
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
