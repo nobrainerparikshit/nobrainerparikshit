@@ -3,8 +3,6 @@
   <img src="https://github.com/nobrainerparikshit/nobrainerparikshit/blob/main/header.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Parikshit</h1>
-
 <h3 align="center">
 AI • Robotics • Research • Healthcare Innovation
 </h3>
@@ -15,17 +13,16 @@ Building intelligent systems that solve real-world problems through Artificial I
 
 ---
 
-## 🚀 About Me
+## Something Tuff About Me
 
-- 🤖 AI & Robotics Developer
-- 🧠 Researching AI for Healthcare
-- 🌍 Founder of **Operation Jal Rakshak**
-- 🔬 Building projects in Machine Learning, Computer Vision & Edge AI
-- 💻 Passionate about Python, ROS, Embedded Systems & Biomedical AI
+- AI & Robotics Developer
+- Researching AI for Healthcare
+- Building projects in Machine Learning, Computer Vision & Edge AI
+- Passionate about Python, ROS, Embedded Systems & Biomedical AI
 
 ---
 
-# 💻 Tech Stack
+# My Tech Stack
 
 ### Frontend
 
@@ -41,19 +38,18 @@ Building intelligent systems that solve real-world problems through Artificial I
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🧠 **VAANI 2.0** | AI-powered vocal biomarker screening for early Parkinson's disease detection |
-| 🌿 **Eutrobot** | Autonomous phytoremediation robot for cleaning eutrophicated water bodies |
-| ☢️ **ThermoBot** | AI-driven remediation system for thermal & radioactive water pollution |
-| 🐾 **Krishna AI** | Intelligent monitoring system for animal healthcare |
-| ♻️ **EcoCredit** | Smart IoT-based waste management and reward platform |
+| **VAANI 2.0** | AI-powered vocal biomarker screening for early Parkinson's disease detection |
+| **Eutrobot** | Autonomous phytoremediation robot for cleaning eutrophicated water bodies |
+| **Krishna AI** | Intelligent monitoring system for animal healthcare |
+| **EcoCredit** | Smart IoT-based waste management and reward platform |
 
 ---
 
-# 🌐 Connect With Me
+# Wanna Connect With Me?
 
 <p align="center">
 
@@ -81,7 +77,7 @@ Building intelligent systems that solve real-world problems through Artificial I
 
 ---
 
-# 📈 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 
@@ -99,34 +95,6 @@ Building intelligent systems that solve real-world problems through Artificial I
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=YOURUSERNAME&style=for-the-badge)
-
-</p>
-
----
-
 <h3 align="center">
-⭐ Thanks for visiting my profile!
+Thank you for visiting my profile!
 </h3>
