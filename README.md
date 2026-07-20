@@ -74,9 +74,3 @@ Building intelligent systems that solve real-world problems through Artificial I
 </a>
 
 </p>
-
----
-
-<h3 align="center">
-Thank you for visiting my profile!
-</h3>
