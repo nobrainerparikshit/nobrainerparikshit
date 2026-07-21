@@ -7,12 +7,15 @@ AI • Robotics • Research • Healthcare Innovation
 <p align="center">
 Building intelligent systems that solve real-world problems through Artificial Intelligence, Robotics, and Biomedical Engineering.
 </p>
+
 ## Something Tuff About Me
 - AI & Robotics Developer
 - Researching AI for Healthcare
 - Building projects in Machine Learning, Computer Vision & Edge AI
 - Passionate about Python, ROS, Embedded Systems & Biomedical AI
+
 # My Tech Stack
+
 ### Frontend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,nodejs,vite&perline=8"/>
@@ -21,18 +24,23 @@ Building intelligent systems that solve real-world problems through Artificial I
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,linux,git,raspberrypi,arduino,ros,vscode&perline=6"/>
 </p>
+
 # Featured Projects
+
 | Project | Description |
 |---------|-------------|
 | **VAANI 2.0** | AI powered vocal biomarker screening for early Parkinson's disease detection |
 | **Eutrobot** | Autonomous phytoremediation robot for cleaning eutrophicated water bodies |
 | **Krishna AI** | Intelligent monitoring system for animal healthcare |
 | **EcoCredit** | Smart IoT based waste management and reward platform |
+
 # Wanna Connect With Me?
+
 <p align="center">
 <a href="https://linkedin.com/in/parikshitsinh">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+  
 <a href="https://github.com/nobrainerparikshit">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
