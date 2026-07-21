@@ -42,7 +42,7 @@ Building intelligent systems that solve real-world problems through Artificial I
 
 | Project | Description |
 |---------|-------------|
-| **VAANI 2.0** | AI-powered vocal biomarker screening for early Parkinson's disease detection |
+| **VAANI 2.0** | AI powered vocal biomarker screening for early Parkinson's disease detection |
 | **Eutrobot** | Autonomous phytoremediation robot for cleaning eutrophicated water bodies |
 | **Krishna AI** | Intelligent monitoring system for animal healthcare |
 | **EcoCredit** | Smart IoT-based waste management and reward platform |
