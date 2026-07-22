@@ -54,3 +54,7 @@ Building intelligent systems that solve real-world problems through Artificial I
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nobrainerparikshit/nobrainerparikshit/gh-pages/profile-night-green.svg" />
+</p>
