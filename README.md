@@ -55,6 +55,8 @@ Building intelligent systems that solve real-world problems through Artificial I
 </a>
 </p>
 
+# Github Contributions
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/nobrainerparikshit/nobrainerparikshit/gh-pages/profile-night-green.svg" />
 </p>
