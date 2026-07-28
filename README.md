@@ -17,10 +17,13 @@ Building intelligent systems that solve real-world problems through Artificial I
 # My Tech Stack
 
 ### Frontend
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,nodejs,vite&perline=8"/>
 </p>
+
 ### AI • Backend • Robotics
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,linux,git,raspberrypi,arduino,ros,vscode&perline=6"/>
 </p>
@@ -44,19 +47,23 @@ Building intelligent systems that solve real-world problems through Artificial I
 <a href="https://github.com/nobrainerparikshit">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://instagram.com/nobra1nerpar1ksh1t">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
 <a href="https://youtube.com/@nobrainerparikshit">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+</a
+  
 <a href="https://pariksh1t.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 </p>
 
 # Github Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nobrainerparikshit/nobrainerparikshit/gh-pages/profile-night-green.svg" />
+<img src="https://raw.githubusercontent.com/nobrainerparikshit/nobrainerparikshit/gh-pages/profile-night-green.svg" />
 </p>
