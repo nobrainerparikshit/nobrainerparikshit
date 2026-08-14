@@ -5,7 +5,7 @@
 AI • Robotics • Research • Healthcare Innovation
 </h3>
 <p align="center">
-Building intelligent systems that solve real-world problems through Artificial Intelligence, Robotics, and Biomedical Engineering.
+Building intelligent systems that solve real world problems through Artificial Intelligence, Robotics, and Biomedical Engineering.
 </p>
 
 ## Something Tuff About Me
