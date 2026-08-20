@@ -28,15 +28,6 @@ Building intelligent systems that solve real world problems through Artificial I
 <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,linux,git,raspberrypi,arduino,ros,vscode&perline=6"/>
 </p>
 
-# Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **VAANI 2.0** | AI powered vocal biomarker screening for early Parkinson's disease detection |
-| **Eutrobot** | Autonomous phytoremediation robot for cleaning eutrophicated water bodies |
-| **Krishna AI** | Intelligent monitoring system for animal healthcare |
-| **EcoCredit** | Smart IoT based waste management and reward platform |
-
 # Wanna Connect With Me?
 
 <p align="center">
