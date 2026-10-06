@@ -47,7 +47,7 @@ Building intelligent systems that solve real world problems through Artificial I
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a
   
-<a href="https://pariksh1t.netlify.app">
+<a href="https://pjadeja.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
