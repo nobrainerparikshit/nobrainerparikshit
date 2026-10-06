@@ -48,7 +48,6 @@ Building intelligent systems that solve real world problems through Artificial I
 </a
   
 <a href="https://pjadeja.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
