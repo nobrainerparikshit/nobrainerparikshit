@@ -2,7 +2,7 @@
   <img src="https://github.com/nobrainerparikshit/nobrainerparikshit/blob/main/header.png" alt="Banner" width="100%" />
 </p>
 <h3 align="center">
-AI • Robotics • Research • Healthcare Innovation
+pjadeja.netlify.app
 </h3>
 <p align="center">
 Building intelligent systems that solve real world problems through Artificial Intelligence, Robotics, and Biomedical Engineering.
